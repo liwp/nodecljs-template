@@ -1,4 +1,4 @@
-(defproject nodecljs/lein-template "0.1.0-SNAPSHOT"
+(defproject nodecljs/lein-template "0.1.0"
   :description "A ClojureScript on Node.js project template"
   :url "https://github.com/liwp/nodecljs-template"
   :license {:name "Eclipse Public License"
