@@ -1,6 +1,6 @@
 # nodecljs
 
-A Leiningen template for ClojureScript on Node.js.
+A Leiningen template for running ClojureScript on Node.js.
 
 ## Usage
 
