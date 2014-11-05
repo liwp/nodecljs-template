@@ -6,6 +6,7 @@ A Leiningen template for running ClojureScript on Node.js.
 
 ```
 lein new nodecljs hello-world
+cd hello-world
 lein cljsbuild once
 node hello_world.js
 ```
